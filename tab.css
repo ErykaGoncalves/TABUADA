@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(45, 45, 119);
+    font: normal 15pt Arial;
+    color: white;
+    text-align: center;
+}
+
+header {
+    color: white;
+    
+}
+
+section {
+    background-color: rgb(129, 137, 207);
+    border-radius: 10px;
+    padding: 15px;
+    width: 700px;
+    margin: auto;
+    box-shadow: 5px 5px 5px 20px rgb(129, 137, 207);
+
+}
+
+footer {
+    color: white;
+    
+}
+
+div{
+  
+    border-radius: 10px;
+    padding: 50px;
+    background-color:  rgb(67, 76, 160);
+    border-color: black;
+    color: white;
+    
+
+}
+#tab{
+    padding: 2cm;
+    font-size: 0.7cm;
+    background-color: rgb(91, 105, 187);
+    box-shadow: 5px 5px 5px 20px rgb(103, 123, 212);
+}
